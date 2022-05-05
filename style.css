@@ -1,0 +1,36 @@
+body {
+    background-image: url("slider_img.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 10vh;
+}
+
+h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h6 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.area {
+    color: #EEEEEE;
+    width: 100%;
+    max-width: 350px;
+    height: 300px;
+    text-align: center;
+    padding: 10px;
+}
+
+.logo {
+    width: 50%;
+}
+
+.remember {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
